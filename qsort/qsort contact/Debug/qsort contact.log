@@ -1,0 +1,4 @@
+﻿  test.c
+C:\Users\yyyyy\Desktop\qsort contact\qsort contact\test.c(43,15): warning C4013: “strcmp”未定义；假设外部返回 int
+C:\Users\yyyyy\Desktop\qsort contact\qsort contact\test.c(39): warning C4716: “my_sort”: 必须返回一个值
+  qsort contact.vcxproj -> C:\Users\yyyyy\Desktop\qsort contact\Debug\qsort contact.exe
